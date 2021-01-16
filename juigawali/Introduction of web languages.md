@@ -18,3 +18,10 @@ for common web protocols like HTTP and FTP,and popular data types like HTML and 
 
 # Java:
 > Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. ... As of 2019, Java was one of the most popular programming languages in use according to GitHub, particularly for client-server web applications, with a reported 9 million developers.
+
+# Bootstrap:
+> Bootstrap is a potent front-end framework used to create modern websites and web apps. It’s open-source and free to use, yet features numerous HTML and CSS templates for UI interface elements such as buttons and forms. Bootstrap also supports JavaScript extensions.
+>> Why do we need Bootstrap?<br>
+:-Software engineers use Bootstrap for a number of different reasons. It is easy to set up and master, it has a lot of components, a good grid system, styling for many HTML elements ranging from typography to buttons, as well as support of JavaScript plugins, making it even more flexible.<br>
+>> What are the uses of Bootstrap?<br>
+:-Bootstrap is great for creating layouts, as its responsive CSS is designed to conform to different devices. It can be employed to ensure consistency, eliminate cross-browser issues, and so on.
